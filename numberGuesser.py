@@ -15,7 +15,7 @@ print(f"""    After all this time...through the countless battles and tribulatio
       You finally reach the chest and place your hands on it with fated breath...only for a magical barrier to emanante resulting in a nasty shock to your hand that stung as if you briefly made contace with the scorching sun.
       Recoiling from the burn, it takes a moment for you to gather yourself. As you wince through the pain it slowly subsides and on the barrier that surrounds that arises the number 7 floating in air.
       A piercing pain rushes to the front of your head as if insanity itself has whispered directly into your ear. With this pain comes a voice with a gravely tone that says 'You who tresspassed and seek to ravage this tomb of mine...I will grant you the treasures that lie here...on one condition...
-      If you can guess the number I'm thinking of then I will dispel the barrier and the valuables you seek will be yours! However, if you fail to guess the number within 7 attempts than your soul will be mine...or something. So no pressure.'""")
+      If you can guess the number I'm thinking of then I will dispel the barrier and the valuables you seek will be yours! However, if you fail to guess the number within 7 attempts then your soul will be mine...or something. So no pressure.'""")
 keepGoing = True
 while(keepGoing):
     attempts += 1
